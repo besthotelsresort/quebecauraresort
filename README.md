@@ -1,0 +1,2 @@
+# quebecauraresort
+Static site: quebecauraresort
